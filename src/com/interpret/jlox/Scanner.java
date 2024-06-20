@@ -23,7 +23,7 @@ public class Scanner {
 		keywords.put("false", FALSE);
 		keywords.put("for",FOR);
 		keywords.put("fun", FUN);
-		keywords.put("IF",IF);
+		keywords.put("if",IF);
 		keywords.put("nil",NIL);
 		keywords.put("or",OR);
 		keywords.put("print",PRINT);
